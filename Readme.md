@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Александра Шевченко](https://up.htmlacademy.ru/javascript/12/user/193003).
-* Наставник: [Дмитрий Харин(https://htmlacademy.ru/profile/dihar).
+* Наставник: [Дмитрий Харин](https://htmlacademy.ru/profile/dihar).
 
 ---
 
